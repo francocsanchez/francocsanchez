@@ -1,5 +1,4 @@
 # Hi, soy Franco 👋
-<hr>
 
 #### De donde soy?
 Soy de la ciudad de Neuquén - Argentina.
