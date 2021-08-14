@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, soy Franco 👋
+<hr>
 
-<!--
-**francocsanchez/francocsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### De donde soy?
+Soy de la ciudad de Neuquén - Argentina.
 
-Here are some ideas to get you started:
+#### A que me dedico?
+Actualmente me encuentro trabajando en la industria automotriz en el sector comercial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A que me quiero dedicar?
+A poder viajar y conocer cada rincon de este mundo mientras realizo trabajos de desarrollo de plataformas / software.
+
+#### Que tecnologias conozco?
+*   HTML
+*   CSS
+*   PHP
+*   Javascript
+*   NodeJs
+
+<hr>
+
+##### Una frase que me gusta
+
+> Tu tiempo es limitado, así que no lo desperdicies viviendo la vida de alguien más
+
+<hr>
+
+## 📫 Mis redes: 
+* ✨ Twitter: https://twitter.com/francocsanchez
+* ✨ Instagram: https://instagram.com/francocsanchez
