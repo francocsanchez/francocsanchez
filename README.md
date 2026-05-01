@@ -1,32 +1,77 @@
 ## ✨ Franco Sánchez
 
-> **Desarrollador Fullstack**  
-> Node.js · React.js · TypeScript · MongoDB  
-> Apasionado por construir soluciones eficientes con código limpio
+> **Gerente Comercial & Desarrollador Fullstack**  
+> Node.js · React · TypeScript · SQL Server · MongoDB  
+> Construyendo sistemas reales para concesionarias 🚗
 
 ---
 
-### 🚀 Tecnologías que uso
+### 🚀 Sobre mí
+
+Soy desarrollador enfocado en crear **sistemas internos robustos y escalables**, principalmente para el rubro automotriz.
+
+Actualmente lidero y desarrollo soluciones en **NIPPON CAR SRL**, combinando negocio + tecnología para optimizar procesos como:
+
+- Gestión de stock
+- Reservas de vehículos
+- Reportes comerciales y comisiones
+- Integraciones con sistemas DMS
+
+Me enfoco en:
+- Código limpio y mantenible
+- Arquitecturas simples pero escalables
+- Interfaces claras para usuarios no técnicos
+
+---
+
+### 🧠 Stack principal
+
+**Frontend**
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- React Hook Form + Zod
+- Recharts
+
+**Backend**
+- Node.js
+- Express 5
+- TypeScript
+- MongoDB + Mongoose
+- SQL Server
+- JWT Auth
+
+---
+
+### 🛠️ Tecnologías
 
 <p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📫 Conectemos
+### 📊 En lo que estoy trabajando
+
+- Sistema integral de gestión para concesionaria
+- Refactor de arquitectura backend (controllers + queries desacopladas)
+- Mejora de UX en dashboards complejos
+- Implementación de gráficos con Recharts
+- Primeros pasos en testing
+
+---
+
+### 📫 Contacto
 
 <p>
-  <a href="https://twitter.com/francocsanchez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
   <a href="https://instagram.com/francocsanchez" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -37,9 +82,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=francocsanchez&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocsanchez&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=francocsanchez&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocsanchez&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
-
